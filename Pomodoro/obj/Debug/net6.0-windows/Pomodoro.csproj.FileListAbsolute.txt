@@ -1,0 +1,17 @@
+C:\Users\henri\source\repos\Pomodoro\Pomodoro\bin\Debug\net6.0-windows\Pomodoro.exe
+C:\Users\henri\source\repos\Pomodoro\Pomodoro\bin\Debug\net6.0-windows\Pomodoro.deps.json
+C:\Users\henri\source\repos\Pomodoro\Pomodoro\bin\Debug\net6.0-windows\Pomodoro.runtimeconfig.json
+C:\Users\henri\source\repos\Pomodoro\Pomodoro\bin\Debug\net6.0-windows\Pomodoro.dll
+C:\Users\henri\source\repos\Pomodoro\Pomodoro\bin\Debug\net6.0-windows\Pomodoro.pdb
+C:\Users\henri\source\repos\Pomodoro\Pomodoro\obj\Debug\net6.0-windows\Pomodoro.Form1.resources
+C:\Users\henri\source\repos\Pomodoro\Pomodoro\obj\Debug\net6.0-windows\Pomodoro.Properties.Resources.resources
+C:\Users\henri\source\repos\Pomodoro\Pomodoro\obj\Debug\net6.0-windows\Pomodoro.csproj.GenerateResource.cache
+C:\Users\henri\source\repos\Pomodoro\Pomodoro\obj\Debug\net6.0-windows\Pomodoro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\source\repos\Pomodoro\Pomodoro\obj\Debug\net6.0-windows\Pomodoro.AssemblyInfoInputs.cache
+C:\Users\henri\source\repos\Pomodoro\Pomodoro\obj\Debug\net6.0-windows\Pomodoro.AssemblyInfo.cs
+C:\Users\henri\source\repos\Pomodoro\Pomodoro\obj\Debug\net6.0-windows\Pomodoro.csproj.CoreCompileInputs.cache
+C:\Users\henri\source\repos\Pomodoro\Pomodoro\obj\Debug\net6.0-windows\Pomodoro.dll
+C:\Users\henri\source\repos\Pomodoro\Pomodoro\obj\Debug\net6.0-windows\refint\Pomodoro.dll
+C:\Users\henri\source\repos\Pomodoro\Pomodoro\obj\Debug\net6.0-windows\Pomodoro.pdb
+C:\Users\henri\source\repos\Pomodoro\Pomodoro\obj\Debug\net6.0-windows\Pomodoro.genruntimeconfig.cache
+C:\Users\henri\source\repos\Pomodoro\Pomodoro\obj\Debug\net6.0-windows\ref\Pomodoro.dll
